@@ -1,0 +1,26 @@
+review_id,review_text,gold_sentiment,review_type,test_purpose
+S001,A masterpiece of modern cinema. The acting is flawless and the story deeply moving.,positive,easy,Clear positive sentiment with strong emotional language
+S002,Absolutely terrible. Boring dialogue and weak plot. I fell asleep.,negative,easy,Clear negative sentiment with direct criticism
+S003,"The visuals are stunning and the director's vision is clear, but the pacing drags and the ending feels forced.",negative,mixed,Surface praise (visuals) but overall negative conclusion
+S004,"A charming film with some flaws. The humor works well, yet the middle section loses momentum.",positive,mixed,Contains both praise and criticism but maintains positive overall sentiment
+S005,"The cinematography is gorgeous, the acting is competent, but I didn't care about the characters at all.",negative,mixed,Visual praise but emotional disconnect leads to negative sentiment
+S006,One of the best films I've seen. Every scene is carefully crafted and the performances are outstanding.,positive,easy,Superlative language indicating strong positive sentiment
+S007,"I found this movie to be quite entertaining, though some plot points were predictable.",positive,mixed,Qualified positive statement with minor complaints
+S008,The film tries hard but ultimately fails to deliver. The script is weak and uninspired.,negative,easy,Clear failure with specific criticisms
+S009,"Beautiful cinematography, strong direction, and a lead actor who carries the whole film on his shoulders. Truly special.",positive,easy,Multiple positive aspects working together
+S010,"The story is confusing, the dialogue is awkward, and I'm not sure what the director intended.",negative,ambiguous,Negative elements but unclear intent creates ambiguity
+S011,"While the movie has its moments, the overall experience was forgettable.",negative,ambiguous,Positive moments mentioned but final judgment is lukewarm negative
+S012,"The chemistry between the leads is amazing, making even the slower moments feel meaningful.",positive,easy,Relationship dynamics as key positive element
+S013,"This looks like an expensive production with an empty narrative. Pretty but shallow.",negative,keyword_trap,Surface words like "expensive" and "pretty" might mislead but overall criticism
+S014,A well-executed thriller that keeps you on the edge of your seat throughout.,positive,easy,Straightforward positive assessment of execution
+S015,"The film is clever without being pretentious, entertaining without being mindless, and emotionally resonant without being manipulative.",positive,easy,Complex balance achieved with multiple positive dimensions
+S016,"I appreciated the effort, but the movie ultimately didn't work for me. The pacing killed my interest.",negative,mixed,Acknowledges effort but fails execution
+S017,"Honestly, this is one of the most painful films I've ever sat through. Every element felt wrong.",negative,easy,Strong negative language across multiple dimensions
+S018,"The dialogue sparkles with wit. The characters feel real. The world feels lived-in. A genuine treasure.",positive,easy,Detailed positive observations about multiple elements
+S019,"The movie looked impressive visually, and there were some good ideas, but the execution was muddled and the ending nonsensical.",negative,mixed,Good elements present but flawed execution dominates
+S020,"A rare film that understands both humor and heartbreak, delivering something that feels both fresh and timeless.",positive,easy,Sophisticated positive assessment with balance
+S021,"I honestly found this movie to be quite terrible. The acting is amateur, the plot is nonsense, and it drags on forever.",negative,easy,Multiple strong criticisms indicate clear negative sentiment
+S022,"The director shows promise in the first act, but loses the thread entirely by the middle, leaving the finale a confusing mess.",negative,ambiguous,Early promise but ultimate failure creates mixed feelings
+S023,"A movie that knows exactly what it is and executes with precision. Not profound, but utterly satisfying.",positive,easy,Positive evaluation based on clear intent and execution
+S024,"The performances are so wooden and the dialogue so cringeworthy that I had to leave the theater early.",negative,easy,Physical negative reactions indicate strong negative sentiment
+S025,"While the film has deeper themes to explore, it instead opts for lazy storytelling and convenient plot devices.",negative,keyword_trap,Mention of "themes" might mislead but lazy storytelling is the core criticism
